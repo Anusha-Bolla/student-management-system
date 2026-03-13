@@ -10,5 +10,4 @@ public class StudentController {
     public String getStudents() {
         return "List of students";
     }
-
 }
